@@ -1,0 +1,21 @@
+/* $This file is distributed under the terms of the license in /doc/license.txt$ */
+body {
+    font-family: Verdana;
+    margin: 0 40px;
+}
+h2, h3 {
+    font-family: Muli, Verdana;
+}
+p {
+    margin: 25px;
+}
+#header {
+    background-color: #fbe5bd;
+    margin: -20px -40px;
+    border-bottom: 1px solid #716d6d;
+    position: fixed;
+    width: 100%;
+}
+#p1 {
+    padding-top: 180px;
+}
