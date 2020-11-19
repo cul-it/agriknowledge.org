@@ -1,6 +1,6 @@
 /* $This file is distributed under the terms of the license in /doc/license.txt$ */
 body {
-    font-family: Verdana;
+    font-family: Muli, Verdana;
     margin: 0 40px;
 }
 h2, h3 {
@@ -8,14 +8,18 @@ h2, h3 {
 }
 p {
     margin: 25px;
+    font-family: Muli, Verdana;
 }
 #header {
     background-color: #fbe5bd;
     margin: -20px -40px;
-    border-bottom: 1px solid #716d6d;
+    border-bottom: 1px solid #959292;
     position: fixed;
     width: 100%;
 }
+#header > img {
+    width: 560px;
+}
 #p1 {
-    padding-top: 180px;
+    padding-top: 140px;
 }
